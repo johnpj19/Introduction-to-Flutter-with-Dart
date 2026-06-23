@@ -48,25 +48,6 @@ Validation Tests
 * Empty password
 * Empty username and password
 
-⸻
-
-Project Structure
-
-flutter_automation_demo
-│
-├── lib
-│   └── main.dart
-│
-├── test
-│   ├── valid_login_test.dart
-│   ├── invalid_username_test.dart
-│   ├── invalid_password_test.dart
-│   ├── both_invalid_test.dart
-│   ├── empty_fields_test.dart
-│   ├── empty_username_test.dart
-│   └── empty_password_test.dart
-│
-└── pubspec.yaml
 
 ⸻
 
